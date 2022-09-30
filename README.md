@@ -1,16 +1,16 @@
-### Hi there 👋
+<h3 align="justify"> <b>Welcome to my page.<b/></h3>
+<p align="justify">My name is <b>Theophilu and from Accra, Ghanas</b>. <br> I am an adept <b>Data Engineer</b> and <b>BI Analytics Developer.</b> <br>I have a well-rounded skill set in Technology.</p>
 
-<!--
-**taggreyampiah/taggreyampiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="justify">
+- 🔭 I’m currently working on Building a Data Warehouse </p> 
+
+<p align="justify"> - 🌱 I’m currently learning Data Analytics at Udack</p>
+<p align="justify">- 👯 I’m totally open to collaborate on **Data Engineering, Data Analytics and BI Development projects**</p>
+<p align="justify">- 💬 I am willing to help with **SQL, Data Enginering, Python, Data Analytics, PowerBI, **</p>
+<p align="justify">- 📫 You can reach me on Yahoo and my LinkedIn profile below.</p>
+<p align="justify">- ⚡ Fun fact: I like researching and listening to music</p>
+
+
